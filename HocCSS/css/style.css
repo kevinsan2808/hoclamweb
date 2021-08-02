@@ -1,0 +1,53 @@
+
+
+.tieude{
+    color: darkorange;
+    font-size: 90px ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    text-shadow:gold 2px 3px 4px;
+    text-transform: uppercase;
+}
+.ds{
+    color: lime;
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-style: italic;
+    text-align: left;
+    text-shadow: lightsalmon 2px 3px 4px;
+    text-transform: capitalize;
+}
+
+#ip{
+    color: maroon;
+    font-size: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: left;
+    text-shadow: midnightblue;
+    text-transform: uppercase;
+
+}
+.img{
+        color: navy;
+        font-size: 65px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        text-align:left ;
+        text-shadow: orangered;
+        text-transform: capitalize;
+}
+#anh{
+    margin: auto;
+}
+.sanpham{
+    color: royalblue;
+    font-size: 69px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: left;
+    text-shadow: tomato;
+    text-transform: capitalize;
+}
